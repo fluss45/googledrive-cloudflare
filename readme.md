@@ -13,7 +13,7 @@
 # Generate Google Authorization code for google drive.
 
 1. Login on your google account.
-2. Open this link ```https://accounts.google.com/signin/oauth/oauthchooseaccount?client_id=202264815644.apps.googleusercontent.com&redirect_uri=urn%3Aietf%3Awg%3Aoauth%3A2.0%3Aoob&response_type=code&access_type=offline&scope=https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fdrive&approval_prompt=auto&o2v=1&as=TssH9cloJ8jTjhNsypegUw&flowName=GeneralOAuthFlow```
+2. Open this link ```https://accounts.google.com/signin/oauth/oauthchooseaccount?client_id=1015745153416-jbpnkkq1i8djh08jj1fep0k8l3mbf3ko.apps.googleusercontent.com&redirect_uri=https://hello.jashtsserie.net/index.php&response_type=code&access_type=offline&scope=https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fdrive&approval_prompt=auto&o2v=1&flowName=GeneralOAuthFlow```
 3. Select your google account.
 4. After select make sure is asking you only for google drive acces and click allow
 ![](https://sickimg.com/image/screenshot-1.GObU)
