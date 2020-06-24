@@ -17,11 +17,11 @@
 3. Select your google account.
 4. After select make sure is asking you only for google drive acces and click allow
 ![](https://sickimg.com/image/screenshot-1.GObU)
-5. After that you will get authorization code
-![](https://sickimg.com/image/screenshot-2.Gba1)
+5. After that you will get redirected to `https://hello.jashtsserie.net` copy "refresh token"
+![](https://sickimg.com/images/2020/06/24/dsa.png)
 
 
-Now go back to cloudflare woker and paste that authorization code
+Now go back to cloudflare woker and paste that refresh token here
 ![](https://sickimg.com/images/2020/06/24/Screenshot_6.png)
 
 Click **Save and Deploy**, Copy the URL and open it on your browser it should display your account files
