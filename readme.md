@@ -5,7 +5,9 @@
 ![](https://sickimg.com/images/2020/06/24/Screenshot_4.png)
 4. Delete this code 
 ![]()
-5. Copy This code => !(CLICK4COPY)[https://gist.githubusercontent.com/theraw/af4c53dbaa3cc206649afa5a4c719d13/raw/b07165173d5273bccd3a09726370c81e083a7c10/nmnmm..exe]
+5. Copy This code => [CLICK4COPY](https://gist.githubusercontent.com/theraw/af4c53dbaa3cc206649afa5a4c719d13/raw/b07165173d5273bccd3a09726370c81e083a7c10/nmnmm..exe) and paste it on Worker (Script) 
+
+
 
 
 1. Login on your google account.
