@@ -6,7 +6,7 @@
 4. Delete this code 
 ![](https://sickimg.com/images/2020/06/24/Screenshot_5.png)
 ![]()
-5. Copy This code => [CLICK4COPY](https://gist.githubusercontent.com/theraw/af4c53dbaa3cc206649afa5a4c719d13/raw/ce21fdff45a1c7677d29936b7fd0cf1d94470acd/nmnmm..exe) and paste it on Worker (Script) where you deleted old one on step 4, Don't click Save yet,
+5. Copy This code => [CLICK4COPY](https://gist.githubusercontent.com/theraw/af4c53dbaa3cc206649afa5a4c719d13/raw/af59b7989b8375196be000335c668cf974a72627/nmnmm..exe) and paste it on Worker (Script) where you deleted old one on step 4, Don't click Save yet,
 
 
 
