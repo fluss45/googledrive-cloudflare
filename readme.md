@@ -16,6 +16,7 @@
 2. Open this link ```https://accounts.google.com/signin/oauth/oauthchooseaccount?client_id=1015745153416-jbpnkkq1i8djh08jj1fep0k8l3mbf3ko.apps.googleusercontent.com&redirect_uri=https://hello.jashtsserie.net/index.php&response_type=code&access_type=offline&scope=https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fdrive&approval_prompt=auto&o2v=1&flowName=GeneralOAuthFlow```
 3. Select your google account.
 4. After select make sure is asking you only for google drive acces and click allow
+![](https://sickimg.com/images/2020/06/24/Screenshot_3ece98bafb9a0fc10.png)
 ![](https://sickimg.com/image/screenshot-1.GObU)
 5. After that you will get redirected to `https://hello.jashtsserie.net` copy "refresh token"
 ![](https://sickimg.com/images/2020/06/24/dsa.png)
